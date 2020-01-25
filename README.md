@@ -1,4 +1,5 @@
-# Image_to_movie
+# JPG-PNG-JPEGtoAVI
+
 image_to_movie using OpenCV and OS
 
 You will need to install OpenCV for python with command : 
